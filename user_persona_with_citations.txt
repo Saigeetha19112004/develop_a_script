@@ -1,0 +1,57 @@
+# Reddit User Persona
+
+## Persona Details
+**Key Interests:**
+- New
+- Ads
+- Political
+
+**Common Topics:**
+- R announcements
+- Political ads
+- Reddit answers
+- Mod tools
+- Make sure
+- Years ago
+- Status quo
+- Third party
+- Community team
+- Things like
+- Want know
+- Jelly belly
+- Last year
+- Reddit community
+- Reddit grown
+- Discussion posts
+- Announcements comments
+- Many communities
+- Communities want
+- Ebook dp
+- New system
+- Widget system
+- R modsupport
+- Trust safety
+- Api terms
+- Better better
+- Long run
+- Single culture
+- Reddit today
+- See people
+
+**Tone:**
+Based on the scraped data, the tone appears to be primarily related to discussions about Reddit itself, its communities, tools, and policies.
+
+**Summary:**
+The user shows interest in: New, Ads, Political. Frequent topics include: R announcements, Political ads, Reddit answers, Mod tools, Make sure. Based on the scraped data, the tone appears to be primarily related to discussions about Reddit itself, its communities, tools, and policies.
+
+## Citations
+**Key Interests:** Derived from frequent terms in comments and posts.
+
+**Common Topics:** Derived from frequent word pairs (bigrams) in comments and posts.
+
+**Tone:** General observation based on content.
+
+**Source Data:**
+- Comments: Data scraped from user comments.
+- Posts: Data scraped from user posts (submissions).
+
